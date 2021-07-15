@@ -1,0 +1,7 @@
+organization=universidadkevin
+projectKey=kevinfeng14_ProyectoJavaMaven
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21709
+dashboardUrl=https://sonarcloud.io/dashboard?id=kevinfeng14_ProyectoJavaMaven
+ceTaskId=AXqsMlCUXLVVAP10q62X
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXqsMlCUXLVVAP10q62X
